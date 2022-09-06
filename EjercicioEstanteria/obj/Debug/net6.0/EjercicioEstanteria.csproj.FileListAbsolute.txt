@@ -1,0 +1,15 @@
+C:\Users\fx\source\repos\EjercicioEstanteria\bin\Debug\net6.0\EjercicioEstanteria.exe
+C:\Users\fx\source\repos\EjercicioEstanteria\bin\Debug\net6.0\EjercicioEstanteria.deps.json
+C:\Users\fx\source\repos\EjercicioEstanteria\bin\Debug\net6.0\EjercicioEstanteria.runtimeconfig.json
+C:\Users\fx\source\repos\EjercicioEstanteria\bin\Debug\net6.0\EjercicioEstanteria.dll
+C:\Users\fx\source\repos\EjercicioEstanteria\bin\Debug\net6.0\EjercicioEstanteria.pdb
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\EjercicioEstanteria.csproj.AssemblyReference.cache
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\EjercicioEstanteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\EjercicioEstanteria.AssemblyInfoInputs.cache
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\EjercicioEstanteria.AssemblyInfo.cs
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\EjercicioEstanteria.csproj.CoreCompileInputs.cache
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\EjercicioEstanteria.dll
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\refint\EjercicioEstanteria.dll
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\EjercicioEstanteria.pdb
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\EjercicioEstanteria.genruntimeconfig.cache
+C:\Users\fx\source\repos\EjercicioEstanteria\obj\Debug\net6.0\ref\EjercicioEstanteria.dll
